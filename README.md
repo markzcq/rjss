@@ -5,7 +5,7 @@
 可以自己部署，在main.js添加自己常用的应用软件分享网站。保存在本地，用edge打开index.html即可使用
 
 
-在线体验：https://ihou.neocities.org
+
 
 # 搜索结果来自：
         "foxirj.com",
