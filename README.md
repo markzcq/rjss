@@ -1,7 +1,11 @@
 # 软件搜搜
 软件聚合搜索。搜索结果来自各软件分享网站，比百度更高效。很多软件站以及国外英文站点未备案，百度并不收录。
 
-在线体验：https://rjss.pages.dev
+
+可以自己部署，在main.js添加自己常用的应用软件分享网站。保存在本地，用edge打开index.html即可使用
+
+
+在线体验：https://ihou.neocities.org
 
 # 搜索结果来自：
         "foxirj.com",
